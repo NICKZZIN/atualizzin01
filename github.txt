@@ -1,0 +1,14 @@
+git clone https://github.com/ichi-lent/ICHIKU
+
+
+COPY AE
+
+> pkg install git
+ > pkg install ffmpeg
+ > pkg install imagemagick
+ > pkg install nodejs
+ > git clone https: //github.gua salin ae di atas
+ > ls
+ >  cd    yng ad di ls
+ > npm i
+ > node index.js
