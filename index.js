@@ -484,7 +484,7 @@ async function starts() {
 						for (let _ of anu) {
 							client.sendMessage(_.jid, buff, image, {caption: `⟪ *${Botz}* 𝑩𝑹𝑶𝑨𝑫𝑪𝑨𝑺𝑻 ⟫\n\n${body.slice(4)}`})
 						}
-						reply('𝙏𝙧𝙖𝙣𝙨𝙢𝙞𝙨𝙨𝙖̃𝙤 𝙗𝙚𝙢 𝙨𝙪𝙘𝙚𝙙𝙞𝙙𝙖'')
+						reply('𝙏𝙧𝙖𝙣𝙨𝙢𝙞𝙨𝙨𝙖̃𝙤 𝙗𝙚𝙢 𝙨𝙪𝙘𝙚𝙙𝙞𝙙𝙖')
 					} else {
 						for (let _ of anu) {
 							sendMess(_.jid, `⟪ *${Botz}* 𝗧𝗥𝗔𝗡𝗦𝗠𝗜𝗦𝗔𝗢 ⟫\n\n${body.slice(4)}`)
